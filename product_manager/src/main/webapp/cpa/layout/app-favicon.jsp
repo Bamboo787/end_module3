@@ -1,0 +1,1 @@
+<link rel="shortcut icon" href="\assetsa\images\favicon.ico">
